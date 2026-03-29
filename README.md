@@ -20,4 +20,6 @@ Sistema CRUD desarrollado en PHP y MySQL que permite registrar, listar, editar y
 3. Ejecutar en localhost con XAMPP
 
 ## 👨‍💻 Autor
-Juan Manuel
+Juan Manuel Paez Castellanos
+Actividad 4 - Registro y control de información
+Opción de grado - Desarrollo web full stack para salud (LADY NATALY REYES 23022026_C1_202604)
